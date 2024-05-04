@@ -123,6 +123,7 @@
     <div class="row">
       <div class="col-sm-6 column-left">
         <h1>Our Story</h1>
+          <h1>tharindu</h1>
         <p>As a hospital service we did a big service since 2019. Leading surgery delivery hospital, largest pharmcy service, dentist services, E-Channeling services and many other services that you can find from our hospital. And also you can find friendly and experienced doctors and other medical staff members in our hospital and you can find your all medical checkups and tests with very low of charges in our hospital.</p>
         <a href="" class="aboutus">Read More >></a>
       </div>
